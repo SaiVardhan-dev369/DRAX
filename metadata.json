@@ -1,0 +1,6 @@
+{
+  "name": "Neon Snaketunes",
+  "description": "A neon-aesthetic Snake game combined with an AI generated music player.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
